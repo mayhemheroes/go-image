@@ -1,0 +1,4 @@
+project: image
+target: image-tiff-fuzz
+cmds:
+  - cmd: ./tiff-fuzz.libfuzzer
